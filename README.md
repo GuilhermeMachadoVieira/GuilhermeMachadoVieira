@@ -1,4 +1,4 @@
-### Olá! Prazer,Eu sou o Guilherme 👋
+### Olá! Prazer, Eu sou o Guilherme 👋
 
 <div align="center">
   <a href="https://github.com/GuilhermeMachadoVieira">
