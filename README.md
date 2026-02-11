@@ -20,11 +20,8 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermemachadovieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMachadoVieira&layout=compact&theme=dracula&langs_count=6" />
-</p>
+### 📊 Activity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeMachadoVieira&theme=dark&hide_border=true)
 
 ---
 
